@@ -96,13 +96,13 @@
 	<distributionManagement>
 	
 	    <repository>
-	      <id>nexus</id>
+	      <id>kdinesh</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
 	      <url>http://3.108.59.22:9929/dineshkdk/repository/dinesh-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
-	      <id>nexus</id>
+	      <id>kdinesh</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
 	      <url>http://3.108.59.22:9929/dineshkdk/repository/dinesh-snapshot/</url>
 	    </snapshotRepository>
